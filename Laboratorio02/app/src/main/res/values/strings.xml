@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Laboratorio-02</string>
+    <string name="text_view_weight">Weight</string>
+    <string name="edit_text_hint_weight">70</string>
+    <string name="text_view_hint">Kg</string>
+    <string name="text_view_height">Height</string>
+    <string name="edit_text_hint_height">180</string>
+    <string name="text_view_hint_cm">Cm</string>
+    <string name="btn_hint">CALCULATE</string>
+</resources>
