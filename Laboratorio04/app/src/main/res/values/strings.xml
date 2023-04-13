@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Laboratorio04</string>
+    <string name="Textview_principal">Rellena la siguiente informacion</string>
+    <string name="Textinput_nombre">Nombre</string>
+    <string name="Textinput_correo">Correo electronico</string>
+    <string name="Textinput_telefono">Numero de telefono</string>
+    <string name="Buttontext_guardar">Guardar</string>
+    <string name="Textview_confirmainfo">Confirma tu informacion</string>
+    <string name="Textview_nombreac2">Nombre</string>
+    <string name="Textview_test">test</string>
+    <string name="Textview_correoac2">Correo electronico</string>
+    <string name="Textview_testgmail">test@gmail.com</string>
+    <string name="Textview_telofonoac2">Numero de telefono</string>
+    <string name="Textview_2525">25252525</string>
+    <string name="Buttontext_compartir">Compartir</string>
+</resources>
