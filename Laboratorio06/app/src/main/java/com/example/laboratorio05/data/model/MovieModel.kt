@@ -1,4 +1,4 @@
-package com.example.laboratorio05.data
+package com.example.laboratorio05.data.model
 
  data class MovieModel(
      val name: String,

@@ -8,7 +8,7 @@ import android.widget.Button
 import androidx.fragment.app.Fragment
 import androidx.navigation.findNavController
 import com.example.laboratorio05.R
-import com.example.laboratorio05.data.MovieModel
+import com.example.laboratorio05.data.model.MovieModel
 import com.example.laboratorio05.data.movies
 import com.google.android.material.textfield.TextInputEditText
 
