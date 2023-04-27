@@ -106,7 +106,8 @@
                     app:layout_constraintEnd_toStartOf="@+id/textView3"
                     app:layout_constraintHorizontal_bias="0.5"
                     app:layout_constraintStart_toStartOf="parent"
-                    app:layout_constraintTop_toTopOf="parent" />
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/harry_potter" />
 
                 <TextView
                     android:id="@+id/textView3"
@@ -143,21 +144,11 @@
             android:backgroundTint="@color/buttonColor"
             android:src="@drawable/add_ic"
             app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.892"
+            app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/cardView2"
-            app:layout_constraintVertical_bias="0.859"
-            tools:layout_editor_absoluteX="312dp" />
-
-        <com.google.android.material.floatingactionbutton.FloatingActionButton
-            android:id="@+id/add_action3"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:backgroundTint="@color/buttonColor"
-            android:src="@drawable/add_ic"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/cardView2"
-            app:layout_constraintVertical_bias="0.859"
-            tools:layout_editor_absoluteX="250dp" />
-
+            app:layout_constraintVertical_bias="0.851" />
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>

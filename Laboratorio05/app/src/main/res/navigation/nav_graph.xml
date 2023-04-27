@@ -7,12 +7,12 @@
 
     <fragment
         android:id="@+id/fragment_new_movie"
-        android:name="com.example.laboratorio05.fragment_new_movie"
+        android:name="com.example.laboratorio05.ui.fragment_new_movie"
         android:label="fragment_new_movie"
         tools:layout="@layout/fragment_new_movie" />
     <fragment
         android:id="@+id/fragment_movie_details"
-        android:name="com.example.laboratorio05.fragment_movie_details"
+        android:name="com.example.laboratorio05.ui.fragment_movie_details"
         android:label="fragment_movie_details"
         tools:layout="@layout/fragment_movie_details" >
         <action
@@ -21,7 +21,7 @@
     </fragment>
     <fragment
         android:id="@+id/fragment_movie_container"
-        android:name="com.example.laboratorio05.fragment_movie_container"
+        android:name="com.example.laboratorio05.ui.fragment_movie_container"
         android:label="fragment_movie_container" >
         <action
             android:id="@+id/action_fragment_movie_container_to_fragment_movie_details"
